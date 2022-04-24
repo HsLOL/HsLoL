@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Objcetion Detection on Remote Sensing
+- 🌱 I’m currently interested in Horizontal / Oriented Obeject Detection and CUDA 
 - 📫 How to reach me: 18310699587@163.com
 - ✨ My ZhiHu HomePage: [知乎](https://www.zhihu.com/people/fhs-37)
 
