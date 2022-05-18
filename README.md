@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--🔭
 -->
 
-- 🔭 I’m currently working on Objcetion Detection on Remote Sensing
+- 😄 I’m currently working on Objcetion Detection on Remote Sensing
 - 🌱 I’m currently interested in **Horizontal / Oriented** Obeject Detection and CUDA 
 - 📫 How to reach me: 18310699587@163.com or zhfang0117@126.com
 - ✨ My ZhiHu HomePage: [知乎](https://www.zhihu.com/people/fhs-37)
