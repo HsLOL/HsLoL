@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Objcetion Detection on Remote Sensing
-- 🌱 I’m currently interested in Horizontal / Oriented Obeject Detection and CUDA 
-- 📫 How to reach me: 18310699587@163.com
+- 🌱 I’m currently interested in **Horizontal / Oriented** Obeject Detection and CUDA 
+- 📫 How to reach me: 18310699587@163.com or zhfang0117@126.com
 - ✨ My ZhiHu HomePage: [知乎](https://www.zhihu.com/people/fhs-37)
 
 ![HsLoL's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsLoL&show_icons=true&theme=tokyonight)
