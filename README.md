@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --🔭
 -->
 
-- 😄 I’m currently working on **Horizontal / Oriented** Objcetion Detection Based on Remote Sensing Images.
+- 😄 I’m currently working on **Horizontal / Oriented** Object Detection Based on Remote Sensing Images.
 - 🌱 I’m currently interested in **CUDA and C++ extensions** for program acceleration.
 - 📫 How to reach me: 18310699587@163.com or zhfang0117@126.com.
 - ✨ My ZhiHu HomePage: [知乎](https://www.zhihu.com/people/fhs-37)
