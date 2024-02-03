@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 --
 -->
 
-- 😄 I’m currently working on **Horizontal / Oriented** Object Detection Based on Remote Sensing Images.
-- 🔭 I’m currently focusing on BEV Perceptron & Occupancy Netowrk in Auto Driving.
+- 😄 I’m currently working on **Horizontal and Oriented** Object Detection Based on Remote Sensing Images.
+- 🔭 I’m currently focusing on **BEV Perceptron and Occupancy Netowrk** in Auto Driving.
 - 📫 How to reach me: zhfang0117@126.com.
 - ✨ HomePage: https://hslol.github.io/
 
