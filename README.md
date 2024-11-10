@@ -1,4 +1,4 @@
-### Hi, I'm Fanzh. 👋
+### Hi, I'm Fangzh. 👋
 
 <!--
 **HsLOL/HsLoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
